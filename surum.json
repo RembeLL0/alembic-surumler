@@ -1,8 +1,8 @@
 {
-  "surum": "0.2.0",
+  "surum": "0.2.1",
   "en_az_surum": "",
-  "adres": "https://github.com/RembeLL0/alembic-surumler/releases/download/v0.2.0/Alembic-Kurulum-0.2.0.exe",
-  "sha256": "7650fc5d4d5482ba01063a167632ada381178deef4d9b7535e1492d40a7bb5e9",
-  "boyut": 997332017,
-  "notlar": "Alembic 0.2.0 - calisma surumu. Ders notu artik duzenlenebiliyor; yazdiginiz yeniden uretimde silinmiyor. Notta ve transkriptte metin isaretleme, butun isaretler icin Calisma listem sayfasi. Ders sayfasi: haftalar dersin yapildigi tarihe gore siralaniyor, donem boyu tek slayt, butun haftalardan tek donem ozeti. Sinav ekrani: sorular tek tek soruluyor, cevap ancak secimden sonra gorunuyor, yanlislar araliksiz tekrarla geri geliyor. Arama derse ve ture gore suzuluyor ve sonuc dogru sekmede aciliyor. Ayarlardan tema secimi ve tek dosyalik kutuphane yedegi."
+  "adres": "https://github.com/RembeLL0/alembic-surumler/releases/download/v0.2.1/Alembic-Kurulum-0.2.1.exe",
+  "sha256": "2e61098106313aa4645dc483e4442f9e260fbaa2ab2ad2f97b91e9bc6fceca54",
+  "boyut": 997333631,
+  "notlar": "Alembic 0.2.1 - Guncelleme artik gorunur. Ayarlar > Guncelleme: hangi surumde oldugunuz yaziyor, 'Simdi denetle' dugmesiyle uygulamayi kapatmadan bakabiliyorsunuz, acilis denetimi buradan kapatilabiliyor. Denetim yapilamadiginda uygulama artik 'en guncel surumdesiniz' demiyor, sebebini soyluyor. 0.2.0 ile gelenler: duzenlenebilir ders notu, isaretler ve Calisma listem, ders sayfasi ve donem ozeti, tek tek soran sinav ekrani, arama suzgecleri, tema secimi ve kutuphane yedegi."
 }
