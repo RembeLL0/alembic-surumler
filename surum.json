@@ -1,8 +1,8 @@
 {
   "surum": "0.1.0",
   "en_az_surum": "",
-  "adres": "https://github.com/RembeLL0/alembic-surumler/releases/download/v0.1.0/Alembic-Guncelleme-0.1.0.exe",
-  "sha256": "0000000000000000000000000000000000000000000000000000000000000000",
-  "boyut": 0,
-  "notlar": "Ilk surum."
+  "adres": "https://github.com/RembeLL0/alembic-surumler/releases/download/v0.1.0/Alembic-Kurulum-0.1.0.exe",
+  "sha256": "5c1d558402802a5f399a426033ed96472dce7db54f914afc90ed5c44771e52be",
+  "boyut": 997266778,
+  "notlar": "Alembic 0.1.0 - ilk yayin. Yenilenen arayuz, ikon seti ve acik/koyu tema. Whisper modeli pakete gomulu degil; ilk kayit yaziya dokulurken uygulama kendisi indirir."
 }
