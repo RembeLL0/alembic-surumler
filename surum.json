@@ -1,8 +1,8 @@
 {
-  "surum": "0.3.0",
+  "surum": "0.3.1",
   "en_az_surum": "",
-  "adres": "https://github.com/RembeLL0/alembic-surumler/releases/download/v0.3.0/Alembic-Kurulum-0.3.0.exe",
-  "sha256": "b3d43e95da8cd765c44f3a27c02f0515066abf07401191978230fcb70f4488c9",
-  "boyut": 997391075,
-  "notlar": "Alembic 0.3.0 - Kaynaklar ve sinav hazirligi. KAYNAKLAR: ders kitabi, slayt, cikmis sinav ve mevzuat PDF'lerinizi sol menudeki yeni Kaynaklar bolumune ekleyin; belgeler aramaya girer ve sayfa numarasiyla bulunur. CIKMIS SORULAR: eklediginiz sinav belgesinden sorular ayiklanip Kendini sina bolumune duser. Cevap anahtari belgede yoksa cevap uydurulmaz, bilinmedigi soylenir. Sinav ekrani artik klasik (acik uclu) soru da soruyor: cevabinizi yazip model cevapla karsilastirir, kendinizi degerlendirirsiniz; sonuc aralikli tekrara girer. SINAV TAKVIMI: ders sayfasina sinav tarihi girin, kalan gune gore gunluk calisma plani cikar. En cok yanildiginiz haftalar basa alinir ve ders sayfasinda listelenir. NOT: formuller artik okunabilir yaziliyor (E = mc kare, kesirler, Yunan harfleri), slayt goruntuleri notun icine gomuluyor, karsilastirma tablolari uretiliyor."
+  "adres": "https://github.com/RembeLL0/alembic-surumler/releases/download/v0.3.1/Alembic-Kurulum-0.3.1.exe",
+  "sha256": "0c03a23c43560f3135c160bff2e44f1e8c36c3fd97c3c304ed46cf9a7b378fd2",
+  "boyut": 997391556,
+  "notlar": ""
 }
