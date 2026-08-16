@@ -1,8 +1,13 @@
 {
-  "surum": "0.8.0",
+  "surum": "0.8.1",
   "en_az_surum": "",
-  "adres": "https://github.com/RembeLL0/alembic-surumler/releases/download/v0.8.0/Alembic-Kurulum-0.8.0.exe",
-  "sha256": "049f2b6c214b09ddd880f671cdefa6e92a31f4ab40036ff2bc7b74191883cc00",
-  "boyut": 997545419,
-  "notlar": "Formül defteri geldi: ders notlarındaki, ses kayıtlarındaki ve kaynak PDF'lerdeki formüller tek sayfada toplanıyor, yıldızladıkların formül kâğıdı olarak dışa aktarılabiliyor. Ayarlar'dan açılıp kapatılabilir. Bugün sayfası yeniden tasarlandı. Dışa aktarılan notlarda formüller artık ham LaTeX olarak çıkmıyor."
+  "adres": "https://github.com/RembeLL0/alembic-surumler/releases/download/v0.8.1/Alembic-Kurulum-0.8.1.exe",
+  "sha256": "5ff42c38f2509185e354951e3bf990cd252e7ae55bd734ebf935df1a102d9ff4",
+  "boyut": 997545922,
+  "notlar": "Mac sürümü geldi: artık DMG'yi indirip Uygulamalar'a sürüklemek yetiyor, Terminal gerekmiyor ve uygulama kendi kendini güncelliyor. Açılışta çakan konsol pencereleri düzeltildi.",
+  "mac": {
+    "adres": "https://github.com/RembeLL0/alembic-surumler/releases/download/v0.8.1/Alembic-macOS-0.8.1-apple-silicon.dmg",
+    "sha256": "881adf612e060a1c96cfd06491d3517045589aff77c87f90900ad48c7c878978",
+    "boyut": 418567936
+  }
 }
