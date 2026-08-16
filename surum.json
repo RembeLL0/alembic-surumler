@@ -1,8 +1,8 @@
 {
-  "surum": "0.7.0",
+  "surum": "0.8.0",
   "en_az_surum": "",
-  "adres": "https://github.com/RembeLL0/alembic-surumler/releases/download/v0.7.0/Alembic-Kurulum-0.7.0.exe",
-  "sha256": "d1232ab99c8dffa05261b49d10f2a4d8aeafe593409c3ec98a7dd4ecc3ac082b",
-  "boyut": 997503362,
-  "notlar": ""
+  "adres": "https://github.com/RembeLL0/alembic-surumler/releases/download/v0.8.0/Alembic-Kurulum-0.8.0.exe",
+  "sha256": "049f2b6c214b09ddd880f671cdefa6e92a31f4ab40036ff2bc7b74191883cc00",
+  "boyut": 997545419,
+  "notlar": "Formül defteri geldi: ders notlarındaki, ses kayıtlarındaki ve kaynak PDF'lerdeki formüller tek sayfada toplanıyor, yıldızladıkların formül kâğıdı olarak dışa aktarılabiliyor. Ayarlar'dan açılıp kapatılabilir. Bugün sayfası yeniden tasarlandı. Dışa aktarılan notlarda formüller artık ham LaTeX olarak çıkmıyor."
 }
