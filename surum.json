@@ -1,13 +1,13 @@
 {
-  "surum": "0.9.2",
+  "surum": "0.9.3",
   "en_az_surum": "",
-  "adres": "https://github.com/RembeLL0/alembic-surumler/releases/download/v0.9.2/Alembic-Kurulum-0.9.2.exe",
-  "sha256": "c6525cb5ac4a9341100b406faf68637e1ab60a41cfbdf163bdf74b8fab705bd8",
-  "boyut": 997601207,
-  "notlar": "Eksik kaldi: slaytla ders karsilastiriliyor, hocanin atladigi sayfa ve slayt disi anlattiklari listeleniyor. Isaretlere etiket konabiliyor. Sinav tarihi girilmemis derste de gunun onerisi cikiyor.",
+  "adres": "https://github.com/RembeLL0/alembic-surumler/releases/download/v0.9.3/Alembic-Kurulum-0.9.3.exe",
+  "sha256": "8f38f525f284c916ee6f5da0c5dc186e4673fcf456257c9757ace54948cad6b5",
+  "boyut": 997612488,
+  "notlar": "Eksik kaldı: slaytla ders karşılaştırılıyor, hocanın atladığı sayfa ve slayta eklediği anlatımlar listeleniyor, tek tıkla çalışma listene giriyor. İşaretlere etiket koyabiliyorsun. Formüller aramada çıkıyor. Ders sayfasında her haftanın birikeni görünüyor. Sınav paketi Bugün sayfasından da çıkıyor. Menü üç noktanın altına taşındı. Yazıya dökülürken ders notu başlatılamıyor ve hata mesajları artık doğru sebebi söylüyor.",
   "mac": {
-    "adres": "https://github.com/RembeLL0/alembic-surumler/releases/download/v0.9.2/Alembic-macOS-0.9.2-apple-silicon.dmg",
-    "sha256": "3f0f4de3f14962fc2b252603da965f2cd2b8e3ab67fb5238cd4a563cfb4d04c8",
-    "boyut": 423645851
+    "adres": "https://github.com/RembeLL0/alembic-surumler/releases/download/v0.9.3/Alembic-macOS-0.9.3-apple-silicon.dmg",
+    "sha256": "832934fc41438264f1f08bb505bbe783b0f7325bb81c1951766e12345b17dd0c",
+    "boyut": 425811332
   }
 }
