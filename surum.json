@@ -1,13 +1,13 @@
 {
-  "surum": "0.9.0",
+  "surum": "0.9.1",
   "en_az_surum": "",
-  "adres": "https://github.com/RembeLL0/alembic-surumler/releases/download/v0.9.0/Alembic-Kurulum-0.9.0.exe",
-  "sha256": "3ac73c2d03e89235766010796ba6b91584d1f0b151f291b6f96e11d0da7fe453",
-  "boyut": 997572356,
-  "notlar": "Sınav paketi: bir sınava çalışılacak her şey tek sayfada — zayıf konuların, yıldızlı formüllerin, işaretlediklerin ve kapsamdaki haftaların özeti. Ders kaydında hocanın vurgu yaptığı anlar otomatik işaretleniyor. Slayt eklediğin derste kaydın hangi anında hangi slaytın anlatıldığı eşleşiyor ve dinlerken sayfa kendiliğinden ilerliyor.",
+  "adres": "https://github.com/RembeLL0/alembic-surumler/releases/download/v0.9.1/Alembic-Kurulum-0.9.1.exe",
+  "sha256": "eed8b516a9ac532e2e3ec589b7cc01ff97365c6fb3b2d82cbe50cefd21169303",
+  "boyut": 997579836,
+  "notlar": "Mac guncelleme duzeltmesi: sertifika deposu pakete girmedigi icin guncelleme denetimi 'internete ulasilamadi' diyordu. Bu surumden sonra Mac kendini otomatik gunceller.",
   "mac": {
-    "adres": "https://github.com/RembeLL0/alembic-surumler/releases/download/v0.9.0/Alembic-macOS-0.9.0-apple-silicon.dmg",
-    "sha256": "fe0ecd2d4a1f72302061faaf19c8601ac20db2a9172356b7ff4bfb0d0f918a85",
-    "boyut": 425194790
+    "adres": "https://github.com/RembeLL0/alembic-surumler/releases/download/v0.9.1/Alembic-macOS-0.9.1-apple-silicon.dmg",
+    "sha256": "016117fbcf3515bbc1b5503559b258f5db8cfa0f64d0ca71d191e670b9ffd45b",
+    "boyut": 425371015
   }
 }
