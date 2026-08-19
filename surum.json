@@ -1,13 +1,13 @@
 {
-  "surum": "0.9.5",
+  "surum": "0.9.6",
   "en_az_surum": "",
-  "adres": "https://github.com/RembeLL0/alembic-surumler/releases/download/v0.9.5/Alembic-Kurulum-0.9.5.exe",
-  "sha256": "501ebf49be363b52cd4c815985ddd03ede23cd642842f1fad2a3e6b442e8246d",
-  "boyut": 997616851,
-  "notlar": "Güncelleme bittikten sonra uygulama kendiliğinden açılıyor. Daha önce kapanıp kalıyor ve elle açman gerekiyordu.",
+  "adres": "https://github.com/RembeLL0/alembic-surumler/releases/download/v0.9.6/Alembic-Kurulum-0.9.6.exe",
+  "sha256": "e5ed31ece68b40e2b65bb1376191d8b1ff4d5e9180df32b5032d60ac06dc2358",
+  "boyut": 997814738,
+  "notlar": "Erguvan temasında yan menünün dibine bal yiyen bir ayı geldi. Üstüne tıklayınca kavanozdan bal yiyor. Hoşuna gitmezse Ayarlar → Görünüm'den kapatabilirsin.",
   "mac": {
-    "adres": "https://github.com/RembeLL0/alembic-surumler/releases/download/v0.9.5/Alembic-macOS-0.9.5-apple-silicon.dmg",
-    "sha256": "9b5bc943ef2dc368de15ccfafed65aebeb6b700d77fde8fd0417cfc4821377d4",
-    "boyut": 422085630
+    "adres": "https://github.com/RembeLL0/alembic-surumler/releases/download/v0.9.6/Alembic-macOS-0.9.6-apple-silicon.dmg",
+    "sha256": "e17699f3f39f8492388452c479434a167dc8bbd0abca011d5f5b9687ff7b9f06",
+    "boyut": 425566216
   }
 }
