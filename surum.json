@@ -1,13 +1,13 @@
 {
-  "surum": "0.9.3",
+  "surum": "0.9.4",
   "en_az_surum": "",
-  "adres": "https://github.com/RembeLL0/alembic-surumler/releases/download/v0.9.3/Alembic-Kurulum-0.9.3.exe",
-  "sha256": "8f38f525f284c916ee6f5da0c5dc186e4673fcf456257c9757ace54948cad6b5",
-  "boyut": 997612488,
-  "notlar": "Eksik kaldı: slaytla ders karşılaştırılıyor, hocanın atladığı sayfa ve slayta eklediği anlatımlar listeleniyor, tek tıkla çalışma listene giriyor. İşaretlere etiket koyabiliyorsun. Formüller aramada çıkıyor. Ders sayfasında her haftanın birikeni görünüyor. Sınav paketi Bugün sayfasından da çıkıyor. Menü üç noktanın altına taşındı. Yazıya dökülürken ders notu başlatılamıyor ve hata mesajları artık doğru sebebi söylüyor.",
+  "adres": "https://github.com/RembeLL0/alembic-surumler/releases/download/v0.9.4/Alembic-Kurulum-0.9.4.exe",
+  "sha256": "b0444c4bf8fd4b50606b50ce91741eeede70e9492cca35d3bedc8cf6699c9e46",
+  "boyut": 997617400,
+  "notlar": "Dönem notun artık aramada çıkıyor. Kendini dene önce yanlış bildiğin soruları soruyor. \"Eksik kaldı\" sekmesi fotoğraf ve PDF haftalarında da açılıyor. Dönem notunu düzenleme bazı kurulumlarda çalışmıyordu, düzeldi. Yedekten geri yükleme uygulama açıkken yarıda kalabiliyordu, düzeldi.",
   "mac": {
-    "adres": "https://github.com/RembeLL0/alembic-surumler/releases/download/v0.9.3/Alembic-macOS-0.9.3-apple-silicon.dmg",
-    "sha256": "832934fc41438264f1f08bb505bbe783b0f7325bb81c1951766e12345b17dd0c",
-    "boyut": 425811332
+    "adres": "https://github.com/RembeLL0/alembic-surumler/releases/download/v0.9.4/Alembic-macOS-0.9.4-apple-silicon.dmg",
+    "sha256": "5ac3766184981893dd539651df1982fb861890e6e0364cf9ad57ddbaa4522c64",
+    "boyut": 426313398
   }
 }
