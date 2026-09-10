@@ -11,10 +11,10 @@
     "boyut": 425566216
   },
   "android": {
-    "surum": "0.9.9",
-    "adres": "https://github.com/RembeLL0/alembic-surumler/releases/download/v0.9.9-android/alembic-0.9.9-arm64-v8a.apk",
-    "sha256": "84d1c847fd11dda67d59d19b3be8da9a47fd634393c90d126149929894a07b01",
-    "boyut": 40928077,
-    "notlar": "Çekmecedeki işaret düzeldi: koyu temada arkasındaki kutuya karışıp kayboluyordu, açık temalarda da okunmuyordu. Artık zeminsiz ve rengini temadan alıyor."
+    "surum": "0.10.0",
+    "adres": "https://github.com/RembeLL0/alembic-surumler/releases/download/v0.10.0-android/alembic-0.10.0-arm64-v8a.apk",
+    "sha256": "52bc1da8fd0abfb77b1091e8f3594e2682a4965eb5d159653e6a31d36a86c94b",
+    "boyut": 40993617,
+    "notlar": "Döküm artık parça parça kaydediliyor: yarıda kesilirse o ana kadarki metin duruyor. Yazma hızı büyük çekirdek sayısına göre ayarlanıyor ve Ayarlar’dan denenebiliyor; Sistem Testi son dökümün ne kadar sürdüğünü yazıyor."
   }
 }
