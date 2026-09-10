@@ -11,10 +11,10 @@
     "boyut": 425566216
   },
   "android": {
-    "surum": "0.11.0",
-    "adres": "https://github.com/RembeLL0/alembic-surumler/releases/download/v0.11.0-android/alembic-0.11.0-arm64-v8a.apk",
-    "sha256": "dc739102114df42fd5759c48b1289ec833e1ece0e4f18f74f25caaa85f0b48c7",
-    "boyut": 41015053,
-    "notlar": "Döküm artık arka planda sürüyor: bildirim çubuğunda ilerleme görünüyor, ekran kapanınca ya da başka bir uygulamaya geçince durmuyor. Bitince bildirim geliyor. Uygulamayı son kullanılanlardan kaydırıp kapatırsan döküm yine durur."
+    "surum": "0.12.0",
+    "adres": "https://github.com/RembeLL0/alembic-surumler/releases/download/v0.12.0-android/alembic-0.12.0-arm64-v8a.apk",
+    "sha256": "806654255b73926614b6b7270ba80b5c51d86a31496756b76d79c04f9bd5e36b",
+    "boyut": 41015097,
+    "notlar": "Günlük plan artık telefonda da yazılabiliyor: iş ekle, düzenle, sil. Tarih ve ders isteğe bağlı. 0.11.0'daki arka planda döküm ve bildirimler de bu sürümde."
   }
 }
