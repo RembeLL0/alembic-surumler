@@ -1,15 +1,10 @@
 {
-  "surum": "0.9.6",
+  "surum": "0.9.8",
   "en_az_surum": "",
-  "adres": "https://github.com/RembeLL0/alembic-surumler/releases/download/v0.9.6/Alembic-Kurulum-0.9.6.exe",
-  "sha256": "e5ed31ece68b40e2b65bb1376191d8b1ff4d5e9180df32b5032d60ac06dc2358",
-  "boyut": 997814738,
-  "notlar": "Erguvan temasında yan menünün dibine bal yiyen bir ayı geldi. Üstüne tıklayınca kavanozdan bal yiyor. Hoşuna gitmezse Ayarlar → Görünüm'den kapatabilirsin.",
-  "mac": {
-    "adres": "https://github.com/RembeLL0/alembic-surumler/releases/download/v0.9.6/Alembic-macOS-0.9.6-apple-silicon.dmg",
-    "sha256": "e17699f3f39f8492388452c479434a167dc8bbd0abca011d5f5b9687ff7b9f06",
-    "boyut": 425566216
-  },
+  "adres": "https://github.com/RembeLL0/alembic-surumler/releases/download/v0.9.8/Alembic-Kurulum-0.9.8.exe",
+  "sha256": "4e949fbb4be19bbaedc4407f643c6eb8c058ac07a3661817c19791f57cf61467",
+  "boyut": 1003784253,
+  "notlar": "Ders programı artık yan menüde: haftalık programını ayrı bir sayfada görüp ders saati ekleyip silebilirsin. Ayrıca yedekten geri yüklemede ses ve sayfa dosyalarının yolları düzeltiliyor; altyazı dışa aktarmasındaki saniye hatası ve iki yanlış tarih okuması giderildi.",
   "android": {
     "surum": "0.14.0",
     "adres": "https://github.com/RembeLL0/alembic-surumler/releases/download/v0.14.0-android/alembic-0.14.0-arm64-v8a.apk",
