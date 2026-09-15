@@ -11,10 +11,10 @@
     "boyut": 425566216
   },
   "android": {
-    "surum": "0.12.0",
-    "adres": "https://github.com/RembeLL0/alembic-surumler/releases/download/v0.12.0-android/alembic-0.12.0-arm64-v8a.apk",
-    "sha256": "806654255b73926614b6b7270ba80b5c51d86a31496756b76d79c04f9bd5e36b",
-    "boyut": 41015097,
-    "notlar": "Günlük plan artık telefonda da yazılabiliyor: iş ekle, düzenle, sil. Tarih ve ders isteğe bağlı. 0.11.0'daki arka planda döküm ve bildirimler de bu sürümde."
+    "surum": "0.14.0",
+    "adres": "https://github.com/RembeLL0/alembic-surumler/releases/download/v0.14.0-android/alembic-0.14.0-arm64-v8a.apk",
+    "sha256": "bee9da3974381fbb3fce5de2b65c316945772c89f3d351b6ba72398bd5fc1385",
+    "boyut": 41211925,
+    "notlar": "Ders programı artık yan menüde ve telefonda da yazılabiliyor: gün, ders, saat ve derslik ekle, sil. Ayrıca ders kaydı ekran kilitliyken de sürüyor; kaydı başlatıp tableti kilitleyebilirsin (uygulamayı kapatırsan durur)."
   }
 }
