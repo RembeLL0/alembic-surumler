@@ -6,10 +6,10 @@
   "boyut": 1003801420,
   "notlar": "Ders programı artık PDF ya da fotoğraftan yükleniyor: günler, saatler ve derslikler kendiliğinden okunur, eklemeden önce listeye bakıp onaylarsın. Uygulamada olmayan dersler yeni ders olarak işaretlenir. Elle ekleme ve silme de duruyor.",
   "android": {
-    "surum": "0.15.0",
-    "adres": "https://github.com/RembeLL0/alembic-surumler/releases/download/v0.15.0-android/alembic-0.15.0-arm64-v8a.apk",
-    "sha256": "04e6ab6012962a8183e84ad1d3fcabc25ea825b41411e2a4ac164d99fcf18ea9",
-    "boyut": 41278467,
-    "notlar": "Ders programı artık PDF ya da fotoğraftan yükleniyor. Dersler, saatler ve derslikler kendiliğinden okunur, eklemeden önce listeye bakıp onaylarsın. Elle ekleme ve silme de duruyor."
+    "surum": "0.16.0",
+    "adres": "https://github.com/RembeLL0/alembic-surumler/releases/download/v0.16.0-android/alembic-0.16.0-arm64-v8a.apk",
+    "sha256": "58685b0517061aaceb72ae9935d2983e690099fe8e81224a16a18fe820013f9d",
+    "boyut": 41278527,
+    "notlar": "Ayarlar'a Kütüphaneyi sıfırla bölümü eklendi: denemek için eklediklerini tek seferde silip temiz başlayabilirsin. Ayarların, Gemini anahtarın ve model kalır."
   }
 }
