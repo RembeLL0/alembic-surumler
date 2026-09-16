@@ -6,10 +6,10 @@
   "boyut": 1003808443,
   "notlar": "Ayarlar'a Kütüphaneyi sıfırla bölümü eklendi: denemek için eklediklerini tek seferde silip temiz başlayabilirsin. Ayarların, Gemini anahtarın ve konuşma tanıma modeli kalır.",
   "android": {
-    "surum": "0.16.0",
-    "adres": "https://github.com/RembeLL0/alembic-surumler/releases/download/v0.16.0-android/alembic-0.16.0-arm64-v8a.apk",
-    "sha256": "58685b0517061aaceb72ae9935d2983e690099fe8e81224a16a18fe820013f9d",
-    "boyut": 41278527,
-    "notlar": "Ayarlar'a Kütüphaneyi sıfırla bölümü eklendi: denemek için eklediklerini tek seferde silip temiz başlayabilirsin. Ayarların, Gemini anahtarın ve model kalır."
+    "surum": "0.16.1",
+    "adres": "https://github.com/RembeLL0/alembic-surumler/releases/download/v0.16.1-android/alembic-0.16.1-arm64-v8a.apk",
+    "sha256": "d54865274378c2608e34e9723961c1579282428928fcf71cb8b6feeacff1732c",
+    "boyut": 41278555,
+    "notlar": "Gemini modeli yoğun olduğunda uygulama artık aynı modeli defalarca bekleyerek denemek yerine hemen yedek modele geçiyor. \"Bağlantı hatası, yeniden deneniyor\" beklemeleri bu yüzden kısalıyor."
   }
 }
