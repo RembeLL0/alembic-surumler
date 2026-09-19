@@ -1,10 +1,10 @@
 {
-  "surum": "0.10.2",
+  "surum": "0.10.3",
   "en_az_surum": "",
-  "adres": "https://github.com/RembeLL0/alembic-surumler/releases/download/v0.10.2/Alembic-Kurulum-0.10.2.exe",
-  "sha256": "9a7ee3c915794820609c65a2a965042553ba005407bd2da19364eaf4575cb9a3",
-  "boyut": 1003810601,
-  "notlar": "Ev internetinde Google'a giden IPv6 yolu bozuksa (\"Bağlantı hatası, yeniden deneniyor\" diye takılıyorsa) uygulama artık ilk hatada IPv4'e geçip hemen yeniden deniyor. Ders programı ve akademik takvim yükleme bu yüzden takılmıyor.",
+  "adres": "https://github.com/RembeLL0/alembic-surumler/releases/download/v0.10.3/Alembic-Kurulum-0.10.3.exe",
+  "sha256": "3b48eb11249f351d56dd9ecf82f1cb9801e68204605587e5c33820ec62316978",
+  "boyut": 1003810890,
+  "notlar": "Ders programı PDF'i artık sayfa görüntüsü olarak okunuyor: metin katmanından okununca saatler ve günler kayıyordu, şimdi tablodaki yerine göre doğru geliyor.",
   "android": {
     "surum": "0.16.1",
     "adres": "https://github.com/RembeLL0/alembic-surumler/releases/download/v0.16.1-android/alembic-0.16.1-arm64-v8a.apk",
